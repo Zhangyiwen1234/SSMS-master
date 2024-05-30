@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/certificate1.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/WebRoot/admin/nullCondition.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/CourseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/Impl/EmpBiz.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/Impl/StudentDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/ScoreDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/TeacherDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/DBCon.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/filter/LoginFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/Course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/Information.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/PageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/CourseService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/ScoreService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/TeacherService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletDeleteStu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletDeleteUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletEditScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletEditStu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletEditUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletFindOneCondition.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletUploadFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/ServletaddScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/student/ServletEditStudentInfo.java" charset="GBK" />
+  </component>
+</project>
